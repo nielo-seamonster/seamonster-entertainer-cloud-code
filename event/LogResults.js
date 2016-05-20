@@ -5,8 +5,6 @@
 // For details of the GameSparks Cloud Code API see https://portal.gamesparks.net/docs.htm			
 //
 // ====================================================================================================
-//Something goes here!
-//I hope this works mate!
 var coins = Spark.getData().coins;
 var fame = Spark.getData().fame;
 
